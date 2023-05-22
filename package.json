@@ -1,0 +1,19 @@
+{
+  "name": "lib-proba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oasis07/data": "^0.0.1",
+    "@oasis07/graph": "^0.0.1",
+    "@oasis07/graph2": "^0.0.1",
+    "express": "^4.18.2"
+  }
+}

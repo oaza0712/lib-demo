@@ -13,7 +13,8 @@
   "dependencies": {
     "@oasis07/data": "^0.0.1",
     "@oasis07/graph": "^0.0.1",
-    "@oasis07/graph2": "^0.0.1",
+    "@oasis07/graph2": "^0.0.5",
+    "@oasis07/graphs_for_children": "^0.0.1",
     "express": "^4.18.2"
   }
 }
